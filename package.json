@@ -32,7 +32,7 @@
     "cli-md": "^1.0.0",
     "concat-stream": "^1.4.7",
     "tape": "^2.13.4",
-    "workshopper-exercise": "^1.1.0"
+    "workshopper-exercise": "^3.0.1"
   },
   "preferGloabal": true
 }
